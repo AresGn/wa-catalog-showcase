@@ -2,6 +2,8 @@
 
 > A WhatsApp shopping assistant that searches the catalogs of WhatsApp Business sellers in Benin and connects buyers with the right seller in a single message.
 
+🌐 **Website:** [wa-catalog.store](https://wa-catalog.store)
+
 🎥 **Demo video:** _coming soon_
 
 ## The problem
@@ -15,10 +17,7 @@ In Benin, a large share of retail happens on WhatsApp: sellers publish products 
 - Public website explaining how it works, with seller sign-up.
 
 ## Screenshots
-<!-- Add your screenshots to images/ and remove this comment
-![Screen 1](images/screen1.png)
-![Screen 2](images/screen2.png)
--->
+![wa-catalog.store home page](images/website-home.webp)
 
 ## Tech stack
 - **Interface:** WhatsApp via whatsapp-web.js · seller portal and admin in Express + EJS
@@ -30,7 +29,7 @@ In Benin, a large share of retail happens on WhatsApp: sellers publish products 
 ## Status
 - [x] WhatsApp bot live with natural-language product search
 - [x] Seller portal and admin dashboard
-- [x] Public website
+- [x] Public website: [wa-catalog.store](https://wa-catalog.store)
 - [ ] Migration to the official WhatsApp Business API (in progress)
 
 ## Source code
