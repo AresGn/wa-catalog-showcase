@@ -12,8 +12,8 @@ In Benin, a large share of retail happens on WhatsApp: sellers publish products 
 ## What it does
 - Buyers describe what they want in plain language on WhatsApp ("an HP laptop under 250k in Cotonou") and get matching products from indexed seller catalogs.
 - Natural-language-to-SQL search over the product database, with category and keyword handling tuned for local vocabulary.
-- One-tap contact with the seller directly on WhatsApp: free for buyers, sellers pay per lead or through optional plans.
-- Seller portal and admin back-office to onboard sellers, add products with photos, and track searches and leads.
+- One-tap contact with the seller directly on WhatsApp.
+- Seller portal and admin back-office to onboard sellers, add products with photos, and track searches and buyer contacts.
 - Public website explaining how it works, with seller sign-up.
 
 ## Screenshots
