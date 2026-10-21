@@ -4,7 +4,7 @@
 
 🌐 **Website:** [wa-catalog.store](https://wa-catalog.store)
 
-🎥 **Demo video:** _coming soon_
+🎥 **Demo video:** [Watch wa-catalog in action on WhatsApp](https://res.cloudinary.com/dwsjriapi/video/upload/v1792613380/mo5rvp6dnnza2zkpm1dd.mp4)
 
 ## The problem
 In Benin, a large share of retail happens on WhatsApp: sellers publish products in WhatsApp Business catalogs and statuses, but those catalogs are locked inside the app and invisible to new customers. Buyers end up messaging several sellers and scrolling through statuses and groups to find one product, with no way to know which sellers are reliable.
@@ -17,6 +17,10 @@ In Benin, a large share of retail happens on WhatsApp: sellers publish products 
 - Public website explaining how it works, with seller sign-up.
 
 ## Screenshots
+| Buyer request | Matching sellers | Result and follow-up | Product media |
+|---|---|---|---|
+| <img src="images/chat-request.webp" width="200" alt="Buyer asks for a perfume and the bot asks for budget, city and type"> | <img src="images/results-bags.webp" width="200" alt="Matching bags from local sellers with price and city"> | <img src="images/results-perfume.webp" width="200" alt="Perfume result with seller link and price"> | <img src="images/product-media.webp" width="200" alt="Product photo opened in WhatsApp"> |
+
 ![wa-catalog.store home page](images/website-home.webp)
 
 ## Tech stack
